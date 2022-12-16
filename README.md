@@ -2,6 +2,10 @@
 
 ## Results of Pipeline 1
 
+![dance_1](figs/transfer/model6_output183453_png-dance.gif)
+
+![dance_2](figs/transfer/model3_output116553_png-dance.gif)
+
 ![orange_justice_1](figs/transfer/model3_output116553_png-orange_justice.gif)
 
 ![orange_justice_2](figs/transfer/model6_output183453_png-orange_justice.gif)
