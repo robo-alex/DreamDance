@@ -10,7 +10,9 @@
 
 ![orange_justice_2](figs/transfer/model6_output183453_png-orange_justice.gif)
 
+The motion transfer is quite successful, even if the the character in the reference video performs large motion, like dancing and rotating.
 
+Note that limited by the computing resources, we only generated the imitation videos of low-resolution. The performance of motion imitation is good.
 
 ## Results of Pipeline 2
 
